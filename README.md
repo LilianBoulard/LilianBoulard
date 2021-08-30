@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - [Sami, the Decentralized Communication Application](https://github.com/sami-dca/sami_dca)
 - [dirty_cat](https://github.com/dirty-cat/dirty_cat)
-- The [scikit-learn MOOC](https://github.com/INRIA/scikit-learn-mooc)
+- [NeuMiss](https://github.com/dirty-cat/neumiss)
 - A bunch of other side-projects
 - And really, most [repositories](https://github.com/LilianBoulard?tab=repositories) that had recent activity !
 
