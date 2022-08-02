@@ -35,7 +35,7 @@ My [LinkedIn profile](https://www.linkedin.com/in/lilian-boulard/).
 
 #### ✨ Highlights
 
-[![](https://img.youtube.com/vi/_GNaaeEI2tg/0.jpg)]((https://youtu.be/_GNaaeEI2tg))
+[![](https://img.youtube.com/vi/_GNaaeEI2tg/0.jpg)](https://youtu.be/_GNaaeEI2tg)
 
 ![Lilian's Github stats](https://github-readme-stats.vercel.app/api?username=LilianBoulard&include_all_commits=true&hide=stars&theme=dracula&hide_rank=true)
 
