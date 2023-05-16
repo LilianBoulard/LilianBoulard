@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 - And really, most [repositories](https://github.com/LilianBoulard?tab=repositories) that had recent activity !
 
 #### 🔖 Resources
-
+<!--
 My [website](https://lilian.boulard.fr/).
-\
+\-->
 My [LinkedIn profile](https://www.linkedin.com/in/lilian-boulard/).
 
 
