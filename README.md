@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #### 🔭 I’m currently working on 
 
-- [dirty_cat](https://github.com/dirty-cat/dirty_cat)
+- [skrub](https://github.com/skrub-data/skrub) (formerly [dirty_cat](https://github.com/dirty-cat/dirty_cat))
 - [Sami, the Decentralized Communication Application](https://github.com/sami-dca/sami_dca)
 - A bunch of other side-projects
 - And really, most [repositories](https://github.com/LilianBoulard?tab=repositories) that had recent activity !
