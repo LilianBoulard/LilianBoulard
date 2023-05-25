@@ -38,6 +38,6 @@ My [LinkedIn profile](https://www.linkedin.com/in/lilian-boulard/).
 
 ![Lilian's Github stats](https://github-readme-stats.vercel.app/api?username=LilianBoulard&include_all_commits=true&hide=stars&theme=dracula&hide_rank=true)
 
-![Lilian's most used languages on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=LilianBoulard&layout=compact&langs_count=6)
+![Lilian's most used languages on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=LilianBoulard&layout=compact&langs_count=6&theme=dracula)
 
 *Badges from [Github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
