@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!--
 My [website](https://lilian.boulard.fr/).
 \-->
-My [LinkedIn profile](https://www.linkedin.com/in/lilian-boulard/).
+My [LinkedIn profile](https://www.linkedin.com/in/lilian-boulard/).  
 My [resume](https://drive.google.com/file/d/1BIK8cJnnty2ylfLemMXQyx5lYz6okluk/view?usp=sharing).
 
 
