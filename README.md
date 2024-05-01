@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 #### 🔭 I’m currently working on 
 
+- [Jimini AI](https://jimini.ai/)
 - [skrub](https://github.com/skrub-data/skrub) (formerly [dirty_cat](https://github.com/dirty-cat/dirty_cat))
 - [Sami, the Decentralized Messaging App](https://github.com/sami-dca/sami_dca)
 - A bunch of other side-projects
