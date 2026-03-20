@@ -10,7 +10,7 @@
 
 ## Exp
 
-I worked at [Inria](https://inria.fr) as a research engineer for machine learning on tabular datasets, where I mostly contributed to [skrub](https://github.com/skrub-data/skrub).  
+I worked at [Inria](https://inria.fr) as a research engineer on machine learning, where I mostly contributed to [skrub](https://github.com/skrub-data/skrub).  
 I then worked at the legaltech startup [Jimini AI](https://jimini.ai) as a ML/Ops engineer, where I engineered the AI business logic for their leading products, and maintained infrastructure (deploying/managing/fine-tuning/etc open-weights LLMs & Kubernetes).  
 I'm now working at [Acolad](https://acolad.com), building their new agentic platform for translation professionals.
 
