@@ -1,33 +1,27 @@
-### Hi there :wave:
+# Hi, I'm Lilian :wave:
 
-<!--
+> Deep in the weeds, laser-focused on a couple of things at a time
 
-**LilianBoulard/LilianBoulard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Merci monsieur
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
-Here are some ideas to get you started:
+## Exp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I worked at [Inria](https://inria.fr) as a research engineer for machine learning on tabular datasets, where I mostly contributed to [skrub-data/skrub](https://github.com/skrub-data/skrub).  
+I then worked at the legaltech startup [Jimini AI](https://jimini.ai) as a ML/Ops engineer, where I engineered the AI business logic for their leading products, and maintained infrastructure (deploying/managing/fine-tuning/etc open-weights LLMs & Kubernetes).  
+I'm now working at [Acolad](https://acolad.com), building their new agentic platform for translation professionals.
 
-#### 🔖 Resources
-My [website](https://lilian.boulard.fr/).  
-My [LinkedIn profile](https://www.linkedin.com/in/lilian-boulard/).  
-My [resume](https://drive.google.com/file/d/1BIK8cJnnty2ylfLemMXQyx5lYz6okluk/view?usp=sharing).  
+## Projects
 
-#### ✨ Highlights
+**closed-source**
+- 🤖 [Lia](https://www.acolad.com/en/lia) - Acolad's Agentic Platform
+- 🏛️ [parliate](https://parliate.fr) - Research & Document Drafting for Parliamentarians
 
-[![](https://img.youtube.com/vi/_GNaaeEI2tg/0.jpg)](https://youtu.be/_GNaaeEI2tg)
-
-![Lilian's Github stats](https://github-readme-stats.vercel.app/api?username=LilianBoulard&include_all_commits=true&hide=stars&theme=dracula&hide_rank=true)
-
-![Lilian's most used languages on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=LilianBoulard&layout=compact&langs_count=6&theme=dracula)
-
-*Badges from [Github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+**open-source**
+- 📊 [skrub](https://github.com/skrub-data/skrub) - Machine Learning on Dataframes
+- 🔨 [prompt-force](https://github.com/LilianBoulard/prompt-forge) - Industrial-Scale Prompt Generation for txt2img Models
+- 🦉 [Sami-DCA](https://github.com/sami-dca/sami_dca) - Decentralized Messaging App
+- 🚪 [PKS](https://github.com/LilianBoulard/PKS) - Rotating Port-Knocking System
