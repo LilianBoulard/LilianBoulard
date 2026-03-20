@@ -22,6 +22,6 @@ I'm now working at [Acolad](https://acolad.com), building their new agentic plat
 
 **open-source**
 - 📊 [skrub](https://github.com/skrub-data/skrub) - Machine Learning on Dataframes
-- 🔨 [prompt-force](https://github.com/LilianBoulard/prompt-forge) - Industrial-Scale Prompt Generation for txt2img Models
+- 🔨 [prompt-forge](https://github.com/LilianBoulard/prompt-forge) - Industrial-Scale Prompt Generation for txt2img Models
 - 🦉 [Sami-DCA](https://github.com/sami-dca/sami_dca) - Decentralized Messaging App
 - 🚪 [PKS](https://github.com/LilianBoulard/PKS) - Rotating Port-Knocking System
