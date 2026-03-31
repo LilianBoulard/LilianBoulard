@@ -18,7 +18,7 @@ I'm now working at [Acolad](https://acolad.com), building their new agentic plat
 
 **closed-source**
 - 🤖 [Lia](https://www.acolad.com/en/lia) - Acolad's Agentic Platform
-- 🏛️ [parliate](https://parliate.fr) - Research & Document Drafting for Parliamentarians
+- 🏛️ [Parliate](https://parliate.fr) - Research & Document Drafting for Parliamentarians
 
 **open-source**
 - 🫟 [skrub](https://github.com/skrub-data/skrub) - Machine Learning on Dataframes
