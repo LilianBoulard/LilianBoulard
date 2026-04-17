@@ -1,4 +1,4 @@
-# Hi, I'm Lilian :wave:
+# Hi, I'm Lilian
 
 > Deep in the weeds, laser-focused on a couple of things at a time
 
